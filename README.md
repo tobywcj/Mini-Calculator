@@ -96,6 +96,7 @@ This LED could inform users the calculator is carrying on which operation and si
 
 There is a 0.125 sec delay between first and second reads of key detection to avoid collision of characters pressed popped up at the same time and continuously writing the same character to the LCD when holding the key, attaining perfect and accurate response of keys.
 
+![image](https://user-images.githubusercontent.com/71925079/149768825-180395bb-503e-4dbe-8ec9-033f3abb5ca0.png)
 
 
 
